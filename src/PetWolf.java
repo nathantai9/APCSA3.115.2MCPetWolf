@@ -4,7 +4,6 @@ import org.bukkit.command.*;
 import org.bukkit.entity.*;
 import org.bukkit.plugin.java.*;
 
-
 class PetWolf extends JavaPlugin {
     public static final Logger LOG = Logger.getLogger("Minecraft");
 
@@ -58,6 +57,7 @@ class PetWolf extends JavaPlugin {
         return false;
     }
 }
+
 // Q1: By looking at the API you should have noticed some patterns in the method names. Imagine that Mojang adds the ability for Wolves to wear hats. If they follow the pattern in the API, what should they name the two methods that will allow you to:
 //  - retrieve information about this wolf's current hat status
 //  - change this wolf's hat status
