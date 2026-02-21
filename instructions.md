@@ -14,18 +14,18 @@ The API documentation for the Wolf class is here: [https://hub.spigotmc.org/java
 ## Directions:
 
   1. spawn one wolf... Wolf myWolf = world.spawn(spot, Wolf.class);
-  2. set it to be tame
-  3. set the player as the owner
-  4. set the color of its collar
-  5. set its name
-  6. log a message for the player
-  7. Next, spawn a llama
-  8. set it to be tame
-  9. set the player as the owner
-  10. set its color
-  11. log a message for the player
-  12. create a command that will generate and tame a different pet
-  13. Finally, answer the following questions as comments at the bottom of the `PetWolf.java` file:
+  1. set it to be tame
+  1. set the player as the owner
+  1. set the color of its collar
+  1. set its name
+  1. log a message for the player
+  1. Next, spawn a llama
+  1. set it to be tame
+  1. set the player as the owner
+  1. set its color
+  1. log a message for the player
+  1. create a command that will generate and tame a different pet
+  1. Finally, answer the following questions as comments at the bottom of the `PetWolf.java` file:
 
   
 ```
